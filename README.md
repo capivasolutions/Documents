@@ -1,2 +1,2 @@
 # Documentos
-📚 Repositório criado para armazenar o documento do projeto
+📚 Repositório criado para armazenar o documentos do projeto
